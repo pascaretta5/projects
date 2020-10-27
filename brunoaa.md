@@ -1,0 +1,7 @@
+# Bruno
+
+### Funcao
+
+- Developer
+- FullStack
+- 
